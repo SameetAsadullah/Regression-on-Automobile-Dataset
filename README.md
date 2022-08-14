@@ -1,2 +1,4 @@
-# Regression-on-Automobile-Data
-Implementing Regression on the given Automobile Data
+<h1 align="center">Regression on Automobile Dataset</h1>
+
+### Description
+Implementing Regression on the given Automobile Dataset.
